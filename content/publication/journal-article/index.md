@@ -1,68 +1,65 @@
 ---
-title: "An example journal article"
+title: "Is the noise still going on? "
+subtitle: Predicting repeat noise complaints with historical time course and
+  random forest classifiers
+publication_types:
+  - "2"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
-
-# Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags:
-- Source Themes
+  - Zicheng Fan
+  - Valerio Signorelli
+publication_short: EPB
+abstract: Noise can have serious adverse effects on residents' physical and
+  mental health. Since the COVID-19 pandemic, the City of Westminster in London
+  has seen a continuous increase in noise complaints, with a significant number
+  of repeat complaints from the same address within a short time scale. The
+  authorities' ability to respond to complaints is challenged. This study
+  explores a method for predicting and identifying repeat complaints to improve
+  the efficiency of the authorities in dealing with noise complaints. Taking the
+  noise complaint records of the City of Westminster during 2018–2022 as
+  research objects, the research explores the cumulative distribution
+  characteristics and clustering pattern of noise complaints in different
+  spatial and temporal dimensions. On this basis, for a noise complaint from a
+  specific address, the study fits random forest classifiers to predict whether
+  the same address is likely to have another noise complaint in future time
+  scales. It is found that about 18.5% of all complaints had at least one
+  previous complaint at the same address in the previous 7 days; during the
+  lock-down period caused by the COVID-19 pandemic, areas with active commercial
+  activities and higher housing prices experienced a significant decrease in
+  complaints, while areas adjacent to parks and green spaces can share a similar
+  upward trend in noise complaints. Prediction of repeat noise complaints with
+  random forest classifiers is proved feasible. F1 scores of models to predict
+  repeat complaints within 0 to 2nd days, 0 to 7th days and 0 to 30th days in
+  the future are 0.55, 0.66 and 0.75, respectively. Suggestions are provided for
+  local authorities to improve resource allocation related to noise complaint
+  management.
+draft: false
 featured: false
-
-# links:
-# - name: ""
-#   url: ""
+projects: []
+slides: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
+  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
+  condimentum.
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
+author_notes:
+  - Noise Complaints; Time Series Analysis; Spatial and Temporal Clustering;
+    Random Forest Classifier
+doi: https://doi.org/10.1177/23998083231184254
+publication: "Environment and Planning B: Urban Analytics and City Science"
+tags: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: "Image credit: Author"
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+  filename: figure-2.png
+date: 2023-08-03T06:53:24.279Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
 
 {{% callout note %}}
