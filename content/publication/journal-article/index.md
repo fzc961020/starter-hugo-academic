@@ -37,9 +37,15 @@ featured: true
 projects: []
 slides: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: This study explores a method for predicting and identifying repeat
+  complaints to improve the efficiency of the authorities in dealing with noise
+  complaints. Taking the noise complaint records of the City of Westminster
+  during 2018–2022 as research objects, the research explores the cumulative
+  distribution characteristics and clustering pattern of noise complaints in
+  different spatial and temporal dimensions. On this basis, for a noise
+  complaint from a specific address, the study fits random forest classifiers to
+  predict whether the same address is likely to have another noise complaint in
+  future time scales.
 url_dataset: ""
 url_project: ""
 url_source: ""
@@ -55,6 +61,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: figure-2.png
+  alt_text: ""
 date: 2023-08-03T06:53:24.279Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
