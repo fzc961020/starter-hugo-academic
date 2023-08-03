@@ -32,8 +32,8 @@ abstract: Noise can have serious adverse effects on residents' physical and
   the future are 0.55, 0.66 and 0.75, respectively. Suggestions are provided for
   local authorities to improve resource allocation related to noise complaint
   management.
-draft: false
-featured: false
+draft: true
+featured: true
 projects: []
 slides: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
@@ -57,7 +57,7 @@ image:
   filename: figure-2.png
 date: 2023-08-03T06:53:24.279Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
