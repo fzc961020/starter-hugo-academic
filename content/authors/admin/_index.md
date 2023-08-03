@@ -19,13 +19,13 @@ social:
       header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=2Vm71pEAAAAJ&hl=zh-CN
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/zicheng-fan-b70760202/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
