@@ -30,7 +30,7 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Urban Analytics Lab, National University of Singapore
+  - name: Urban Analytics Lab, n/ National University of Singapore
     url: https://ual.sg/
 education:
   courses:
