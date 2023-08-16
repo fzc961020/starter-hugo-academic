@@ -35,14 +35,17 @@ organizations:
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      institution: National University of Singapore
+      year: 2023
+    - course: MRes Spatial Data Science
+      institution: University College London
+      year: 2021
+    - course: "Msc Space Syntax: Architecture and Cities"
+      institution: University College London
+      year: 2020
+    - course: "Urban and Rural Planning "
+      institution: Soochow University
+      year: 2015
 superuser: true
 status:
   icon: ☕️
