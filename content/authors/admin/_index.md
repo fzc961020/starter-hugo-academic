@@ -34,7 +34,7 @@ organizations:
     url: https://ual.sg/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Architecture
       institution: National University of Singapore
       year: 2023
     - course: MRes Spatial Data Science
