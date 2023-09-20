@@ -95,7 +95,7 @@ sections:
           organization: Coursera
           organization_url: https://www.coursera.org
           title: Advanced Learning Algorithms
-          url: '[https://www.coursera.org/account/accomplishments/verify/2XNWKZSJFZBH](https://www.coursera.org/account/accomplishments/verify/VK9S48CGNR7W)'
+          url: 'https://www.coursera.org/account/accomplishments/verify/VK9S48CGNR7W'
     
         - certificate_url: https://www.edx.org
           date_end: ''
