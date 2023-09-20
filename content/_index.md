@@ -83,7 +83,6 @@ sections:
           date_start: '2022-11-23'
           description: ''
           organization: Coursera
-          organization_url: https://www.coursera.org
           title: Supervised Machine Learning: Regression and Classification
           url: https://www.coursera.org/account/accomplishments/verify/2XNWKZSJFZBH
     
@@ -91,7 +90,6 @@ sections:
           date_start: '2022-12-30'
           description: ''
           organization: Coursera
-          organization_url: https://www.coursera.org
           title: Advanced Learning Algorithms
           url: https://www.coursera.org/account/accomplishments/verify/VK9S48CGNR7W
     
@@ -100,7 +98,6 @@ sections:
           date_start: '2023-01-08'
           description: The President’s Graduate Fellowship is awarded to PhD candidates who show exceptional promise or accomplishment in research.
           organization: National University of Singapore
-          organization_url: https://nus.edu.sg/
           title: President’s Graduate Fellowship
           url: https://nusgs.nus.edu.sg/scholarships-list/
         
