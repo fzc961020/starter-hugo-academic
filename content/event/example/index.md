@@ -7,7 +7,7 @@ title: Space Syntax Workshop
 location: GIS Lab 2
 date: 2023-07-24T03:00:00.000Z
 date_end: 2023-07-24T04:00:00.000Z
-all_day: false
+all_day: true
 event: UAL Space Syntax Workshop
 event_url: __
 featured: false
