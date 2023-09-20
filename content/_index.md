@@ -86,7 +86,7 @@ sections:
           organization: Coursera
           organization_url: https://www.coursera.org
           title: Supervised Machine Learning: Regression and Classification
-          url: 'https://www.coursera.org/account/accomplishments/verify/2XNWKZSJFZBH'
+          url: https://www.coursera.org/account/accomplishments/verify/2XNWKZSJFZBH
     
         - certificate_url: 'https://www.coursera.org/account/accomplishments/verify/VK9S48CGNR7W'
           date_end: ''
@@ -95,7 +95,7 @@ sections:
           organization: Coursera
           organization_url: https://www.coursera.org
           title: Advanced Learning Algorithms
-          url: 'https://www.coursera.org/account/accomplishments/verify/VK9S48CGNR7W'
+          url: https://www.coursera.org/account/accomplishments/verify/VK9S48CGNR7W
     
         - certificate_url: ''
           date_end: ''
