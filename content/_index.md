@@ -84,7 +84,7 @@ sections:
           date_start: '2022-11-23'
           description: ''
           organization: Coursera
-          organization_url: 'https://www.coursera.org'
+          organization_url: https://www.coursera.org
           title: Supervised Machine Learning: Regression and Classification
           url: 'https://www.coursera.org/account/accomplishments/verify/2XNWKZSJFZBH'
     
