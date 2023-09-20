@@ -1,6 +1,6 @@
 ---
 abstract: "Space Syntax Analysis: Concept, Method,  and Hands-on Tools for R and Python"
-slides: CONTENT/SLIDES/
+slides: assets/media/space_syntax_workshop_zicheng_fan.pdf
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
 title: Space Syntax Workshop
