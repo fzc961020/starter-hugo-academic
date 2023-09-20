@@ -1,14 +1,13 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: The World in your Kitchen
+subtitle: —— A Web Gis Project Illustrating Interesting Stories andTruth about Food
+date: 2023-09-20T00:00:00.000Z
+summary: A group project developed with Haotian Meng,  Jingran Ma, Liyuan Dong,
+  Hangjing Cai in CASA 0005 module in UCL `external_link`.
 tags:
   - Demo
-date: "2016-04-27T00:00:00Z"
-
-# Optional external URL for project (replaces project detail page).
-external_link: https://example.org
-
+external_link: https://world2kitchen.github.io/The_World_in_your_Kitchen/P0_Panoramic_and_Fullpage/fullpage.html
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: ""
   focal_point: Smart
 ---
