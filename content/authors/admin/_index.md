@@ -28,7 +28,7 @@ social:
     link: https://www.linkedin.com/in/zicheng-fan-b70760202/
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CV_Fan Zicheng_one_page_0828.pdf
 organizations:
   - name: Urban Analytics Lab, NUS
     url: https://ual.sg/
@@ -43,7 +43,7 @@ education:
     - course: "Msc Space Syntax: Architecture and Cities"
       institution: University College London
       year: 2020
-    - course: "Urban and Rural Planning "
+    - course: "BEng Urban and Rural Planning "
       institution: Soochow University
       year: 2015
 superuser: true
