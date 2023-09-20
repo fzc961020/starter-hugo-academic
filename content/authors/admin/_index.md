@@ -41,7 +41,7 @@ education:
     - course: MRes Spatial Data Science
       institution: University College London
       year: 2021
-    - course: "Msc Space Syntax: Architecture and Cities"
+    - course: Msc Space Syntax
       institution: University College London
       year: 2020
     - course: "BEng Urban and Rural Planning "
