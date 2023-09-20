@@ -50,7 +50,7 @@ sections:
           location: Singapore
           date_start: '2024-01-08'
           date_end: '2024-05-15'
-          description: Taught R and GIS skills.
+          description: Teach R and GIS skills.
     design:
       columns: '2'
   - block: accomplishments
