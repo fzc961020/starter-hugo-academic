@@ -15,17 +15,21 @@ sections:
     content:
       title: Skills
       items:
+        - name: Python
+          description: 80%
+          icon: python-project
+          icon_pack: fab
         - name: R
-          description: 90%
+          description: 60%
           icon: r-project
           icon_pack: fab
-        - name: Statistics
-          description: 100%
+        - name: Spatial Statistics
+          description: 80%
           icon: chart-line
           icon_pack: fas
-        - name: Photography
+        - name: Deep Learning
           description: 10%
-          icon: camera-retro
+          icon: model-retro
           icon_pack: fas
   - block: experience
     content:
