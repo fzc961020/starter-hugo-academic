@@ -5,6 +5,7 @@ avatar_filename: profile.png
 bio: My research interests include spatial data science, 3D GIS and space syntax
 interests:
   - Spatial Data Science
+  - Deep Learning
   - 3D GIS
   - Space Syntax
 social:
