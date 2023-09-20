@@ -17,7 +17,7 @@ sections:
       items:
         - name: Python
           description: 80%
-          icon: python-project
+          icon: python
           icon_pack: fab
         - name: R
           description: 60%
