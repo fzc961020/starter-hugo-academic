@@ -26,7 +26,7 @@ tags: []
 projects:
   - example
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
+  caption: An Overview of Space Syntax Tools
   focal_point: Right
   filename: 图片1.png
 url_code: ""
