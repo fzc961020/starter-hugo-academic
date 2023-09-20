@@ -95,7 +95,7 @@ sections:
           organization_url: https://www.coursera.org
           title: Supervised Machine Learning Regression and Classification
           url: ''
-        - certificate_url: https://www.datacamp.com
+        - certificate_url: ''
           date_end: ''
           date_start: '2023-01-08'
           description: ''
