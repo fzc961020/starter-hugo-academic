@@ -29,7 +29,7 @@ sections:
           icon_pack: fas
         - name: Deep Learning
           description: 10%
-          icon: microchip-ai
+          icon: microchip
           icon_pack: fas
   - block: experience
     content:
