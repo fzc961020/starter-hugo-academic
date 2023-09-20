@@ -13,7 +13,7 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/ZichengFan
     label: Follow me on Twitter
     display:
       header: true
@@ -22,7 +22,7 @@ social:
     link: https://scholar.google.com/citations?user=2Vm71pEAAAAJ&hl=zh-CN
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/fzc961020
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/zicheng-fan-b70760202/
