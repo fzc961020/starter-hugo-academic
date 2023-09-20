@@ -96,12 +96,12 @@ sections:
           title: Supervised Machine Learning Regression and Classification
           url: ''
         - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_end: ''
+          date_start: '2023-01-08'
           description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          organization: National University of Singapore
+          organization_url: https://nus.edu.sg/
+          title: ' President’s Graduate Fellowship'
           url: ''
     design:
       columns: '2'
