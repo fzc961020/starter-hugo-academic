@@ -87,13 +87,13 @@ sections:
           organization_url: https://www.coursera.org
           title: Advanced Learning Algorithms
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://www.coursera.org/account/accomplishments/verify/2XNWKZSJFZBH
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
+          date_start: '2022-11-23'
+          description: ''
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Supervised Machine Learning: Regression and Classification
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
