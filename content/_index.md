@@ -79,14 +79,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: 'https://www.coursera.org/account/accomplishments/verify/2XNWKZSJFZBH'
+        - certificate_url: https://www.coursera.org/account/accomplishments/verify/2XNWKZSJFZBH
           date_start: '2022-11-23'
           description: ''
           organization: Coursera
           title: Supervised Machine Learning: Regression and Classification
           url: https://www.coursera.org/account/accomplishments/verify/2XNWKZSJFZBH
     
-        - certificate_url: 'https://www.coursera.org/account/accomplishments/verify/VK9S48CGNR7W'
+        - certificate_url: https://www.coursera.org/account/accomplishments/verify/VK9S48CGNR7W
           date_start: '2022-12-30'
           description: ''
           organization: Coursera
