@@ -213,7 +213,7 @@ sections:
         - icon: twitter
           icon_pack: fab
           name: Zicheng Fan
-          link: '[https://twitter.com/Twitter](https://twitter.com/ZichengFan)'
+          link: 'https://twitter.com/ZichengFan'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
