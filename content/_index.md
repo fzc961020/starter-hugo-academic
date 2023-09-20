@@ -97,12 +97,12 @@ sections:
           title: Advanced Learning Algorithms
           url: 'https://www.coursera.org/account/accomplishments/verify/VK9S48CGNR7W'
     
-        - certificate_url: https://www.edx.org
+        - certificate_url: ''
           date_end: ''
           date_start: '2023-01-08'
-          description: The President’s Graduate Fellowship (”Fellowship”) is awarded to PhD candidates who show exceptional promise or accomplishment in research.
+          description: The President’s Graduate Fellowship is awarded to PhD candidates who show exceptional promise or accomplishment in research.
           organization: National University of Singapore
-          organization_url: [https://www.edx.org](https://nus.edu.sg/)
+          organization_url: https://nus.edu.sg/
           title: President’s Graduate Fellowship
           url: https://nusgs.nus.edu.sg/scholarships-list/
         
