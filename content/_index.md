@@ -81,28 +81,31 @@ sections:
       items:
         - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2022-11-23'
           description: ''
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
+          title: Supervised Machine Learning: Regression and Classification
+          url: 'https://www.coursera.org/account/accomplishments/verify/2XNWKZSJFZBH'
+    
+        - certificate_url: https://www.coursera.org
+          date_end: ''
+          date_start: '2022-12-30'
+          description: ''
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Advanced Learning Algorithms
+          url: '[https://www.coursera.org/account/accomplishments/verify/2XNWKZSJFZBH](https://www.coursera.org/account/accomplishments/verify/VK9S48CGNR7W)'
+    
         - certificate_url: https://www.edx.org
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+          date_start: '2023-01-08'
+          description: The President’s Graduate Fellowship (”Fellowship”) is awarded to PhD candidates who show exceptional promise or accomplishment in research.
+          organization: National University of Singapore
+          organization_url: [https://www.edx.org](https://nus.edu.sg/)
+          title: President’s Graduate Fellowship
+          url: https://nusgs.nus.edu.sg/scholarships-list/
+        
     design:
       columns: '2'
   - block: collection
